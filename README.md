@@ -81,8 +81,6 @@ you want to evaluate.
 
 ## This is part of a series
 
-- **[Changelog Generator](https://github.com/boncz/changelog-generator)** 
-  — RAG-powered release notes from raw git commits
+- **[Changelog Generator](https://github.com/boncz/changelog-generator)** — RAG-powered release notes from raw git commits
 - **Doc Quality Evaluator** ← you are here
-- **Doc Holiday MCP Server** — exposing doc tools to AI agents via the 
-  Model Context Protocol (coming soon)
+- **[doctools-mcp](https://github.com/boncz/doctools-mcp)** — MCP server exposing doc tools to AI agents
